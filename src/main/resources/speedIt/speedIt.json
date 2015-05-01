@@ -1,0 +1,15 @@
+{  
+
+   "browser":"firefox",
+
+   "qa":
+   {
+      "host_url":"https://accounts.google.com/SignUp"
+   },
+
+   "staging":
+   {
+      "host_url":"https://paypal.com"
+   }
+
+}
