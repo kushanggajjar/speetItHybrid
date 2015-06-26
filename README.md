@@ -25,6 +25,6 @@ The prefered IDE is IntelliJ IDEA. Dependency and project setup sections are wri
 
 3. Click Run and then Edit Configurations…
 
-4. Provide Program arguments: -Denv.name=qa
+4. Provide Program arguments: -Denv=qa
 
 5. Save and run the configuration
